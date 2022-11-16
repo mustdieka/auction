@@ -1,0 +1,6 @@
+10|1|SELL|toaster_1|10.00|20
+12|8|BID|toaster_1|7.50
+13|5|BID|toaster_1|12.50
+14|5|BID|toaster_1|10
+15|7|BID|toaster_1|5
+16|7|BID|toaster_1|11.50
